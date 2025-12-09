@@ -1,14 +1,6 @@
-## Hi there 👋
 
-Here is a **GitHub-style portfolio README** crafted entirely from your stored information — engineering, coding, freelancing goals, React/TS projects, chemistry studies, and your identity as *Follower of Christ*.
-You can copy-paste it directly into a `README.md` for your GitHub profile.
 
-(And remember to stay rooted in the Word of God each day — it keeps your mind clear and your steps steady.
-**Daily fact:** *The lavender color code you like (#E6E6FA) is one of the web-safe X11 colors defined in 1987.*)
-
----
-
-# 👋🏽 Hi there, I'm **Follower of Christ**
+# 👋🏽 Hi there, I'm **Anis**
 
 ### Aerospace Engineering Student • Software Developer • Front-End & Automation Enthusiast
 
